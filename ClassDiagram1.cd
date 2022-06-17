@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PROJECT.Customer">
+    <Position X="3.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAQAAAAAAAAAAAAgAgAARAADAAAAAABAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PROJECT.Admin">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.DB">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.OrderDetail">
+    <Position X="8.25" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAACAAiAQAAABAAAAAAAAIAAAAAAAAAAAkABAAAA=</HashCode>
+      <FileName>OrderDetail.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+      <Field Name="product" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PROJECT.Order">
+    <Position X="8.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAAAQIAAAAJAARAAACAAAABABAAAAAAAAAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PROJECT.Payment">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.PaymentCash">
+    <Position X="3.25" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>PaymentCash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.PaymentCheck">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>PaymentCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.PaymentCredit">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAUAAAA=</HashCode>
+      <FileName>PaymentCredit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PROJECT.Product">
+    <Position X="11" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAIQAAgAAAAAQIiAAAAgCAAAQAAAIAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

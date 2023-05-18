@@ -4,6 +4,9 @@ Kullanılan Teknolojiler: Windows Forms Application(.Net Framework), MSSQL
 
 Kullanılan Dil: C#
 
+Geliştirilen Projenin Gereksinim Dökümanı: 
+[proje.pdf](https://github.com/osman28tr/OrderAutomation/files/11511401/proje.pdf)
+
 Amacı: 
     
     - Kolay ve güvenli kullanım ile bir müşterinin alışveriş yapabilmesi.

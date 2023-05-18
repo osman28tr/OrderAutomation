@@ -1,5 +1,9 @@
 # Csharp-Siparis-Otomasyon
 
+Kullanılan Teknolojiler: Windows Forms Application(.Net Framework), MSSQL
+
+Kullanılan Dil: C#
+
 Amacı: 
     
     - Kolay ve güvenli kullanım ile bir müşterinin alışveriş yapabilmesi.
